@@ -1637,7 +1637,7 @@ SELECT pg_catalog.setval('administrador.exames_id_exame_seq', 1, false);
 -- Name: expedicao_id_expedicao_seq; Type: SEQUENCE SET; Schema: administrador; Owner: -
 --
 
-SELECT pg_catalog.setval('administrador.expedicao_id_expedicao_seq', 12, true);
+SELECT pg_catalog.setval('administrador.expedicao_id_expedicao_seq', 1, true);
 
 
 --
@@ -1763,7 +1763,7 @@ SELECT pg_catalog.setval('auditoria.fluxo_tratamento_id_fluxo_tratamento_seq', 1
 -- Name: log_auditoria_id_log_seq; Type: SEQUENCE SET; Schema: auditoria; Owner: -
 --
 
-SELECT pg_catalog.setval('auditoria.log_auditoria_id_log_seq', 132514, true);
+SELECT pg_catalog.setval('auditoria.log_auditoria_id_log_seq', 1, true);
 
 
 --
@@ -1781,7 +1781,7 @@ SELECT pg_catalog.setval('auditoria.mapeamento_dados_id_mapeamento_dados_seq', 1
 -- Name: ficha_atendimento_id_ficha_atendimento_seq; Type: SEQUENCE SET; Schema: triagem; Owner: -
 --
 
-SELECT pg_catalog.setval('triagem.ficha_atendimento_id_ficha_atendimento_seq', 3344, true);
+SELECT pg_catalog.setval('triagem.ficha_atendimento_id_ficha_atendimento_seq', 1, true);
 
 
 --
@@ -1790,7 +1790,7 @@ SELECT pg_catalog.setval('triagem.ficha_atendimento_id_ficha_atendimento_seq', 3
 -- Name: paciente_id_paciente_seq; Type: SEQUENCE SET; Schema: triagem; Owner: -
 --
 
-SELECT pg_catalog.setval('triagem.paciente_id_paciente_seq', 3344, true);
+SELECT pg_catalog.setval('triagem.paciente_id_paciente_seq', 1, true);
 
 
 --
